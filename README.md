@@ -1,4 +1,4 @@
-# myVector
+# Movie Reviews using myVector
 ## About
 
 The built-in C++ Vector class from the standard library is based on a dynamically-allocated array. This repo consists of a new implementation of the vector class, using a different design approach.
