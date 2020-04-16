@@ -12,4 +12,4 @@ You can run the program using the .txt files within the directory or create new 
 
 ## How to run program in shell
 From the project directory execute:
-'''$>./a.out movie1.txt''' 
+```$>./a.out movie1.txt``` 
