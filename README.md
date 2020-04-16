@@ -11,5 +11,5 @@ You can run the program using the .txt files within the directory or create new 
 * ... rest of the lines : ratings 1-5
 
 ## How to run program in shell
-From the project directory execute:\n
+From the project directory execute:\
 ```$>./a.out movie1.txt``` 
