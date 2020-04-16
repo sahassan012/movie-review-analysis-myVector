@@ -13,9 +13,13 @@ The .txt file expected by the program must be in the following format:
 
 ## How to run program in shell
 From the project directory execute:\
-```./a.out```\
+```console
+./a.out
+```
 and then enter the .txt file name:\
-```movie1.txt``` 
+```console
+movie1.txt
+``` 
 
 Output:
 ```console
