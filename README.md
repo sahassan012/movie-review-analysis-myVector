@@ -8,8 +8,8 @@ The Movie Reviews program uses .txt files that consist of movie reviews as a way
 ## How it works
 You can run the program using the .txt files within the directory or create new ones with the following format:
 * line 1: Movie name
-* All lines after: ratings 1-5
-* last line: -1
+* All lines after: 1-5 (ratings)
+* last line: -1 (terminating character)
 
 ## How to run program in shell
 From the project directory execute:\
