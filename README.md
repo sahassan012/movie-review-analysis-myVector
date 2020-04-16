@@ -14,4 +14,3 @@ You can run the program using the .txt files within the directory or create new 
 From the project directory execute:\
 ```./a.out movie1.txt``` \
 or use any other .txt file with the correct format.
-\
