@@ -13,4 +13,18 @@ The .txt file expected by the program must be in the following format:
 
 ## How to run program in shell
 From the project directory execute:\
-```./a.out movie1.txt``` 
+```./a.out```\
+and then enter the .txt file name:\
+```movie1.txt``` 
+
+Output:
+```console
+Movie: Finding Nemo
+Num reviews: 5
+Avg review:  4.6
+5 stars: 3
+4 stars: 2
+3 stars: 0
+2 stars: 0
+1 star:  0
+```
