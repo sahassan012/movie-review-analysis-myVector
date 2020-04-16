@@ -11,12 +11,12 @@ The .txt file expected by the program must be in the following format:
 * All lines after: 1-5 (ratings)
 * last line: -1 (terminating character)
 
-## How to run program in shell
-From the project directory execute:\
+## How to run(from command line)
+From the project directory execute:
 ```console
 ./a.out
 ```
-and then enter the .txt file name:\
+and then enter the .txt file name:
 ```console
 movie1.txt
 ``` 
