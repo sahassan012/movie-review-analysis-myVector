@@ -1,4 +1,4 @@
-# Analyzing Movie Reviews using an implementation of the vector class
+## Analyzing Movie Reviews using an implementation of the vector class
 ## About
 
 The built-in C++ Vector class from the standard library is based on a dynamically-allocated array. This repo consists of a new implementation of the vector class, using a different design approach.
